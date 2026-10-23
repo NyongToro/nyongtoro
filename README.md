@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there, I'm Torobong Nyong 👋
 
-<!--
-**NyongToro/nyongtoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Specialist | Web Developer | Data & Systems Analyst I build responsive web applications, automate data workflows, and manage robust IT systems. Passionate about solving complex technical problems and creating seamless digital experiences.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack & Skills Languages & Web: HTML5, CSS3, JavaScript, Python, SQL Tools & Platforms:Git/GitHub, MySQL, Google Sheets/Apps Script, Linux/Windows Admin Core Competencies: Full-Stack Web Development, Data Analysis & Automation, Systems Administration, IT Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Highlights
+
+🌐 Building scalable web applications and clean user interfaces.
+📊 Automating data processing, record digitization, and system workflows.
+🛠️ Configuring networks, system infrastructure, and database management.
+📫 Connect With Me
+
+LinkedIn: [linkedin.com/in/torobongnyong]
+Email: nyongtoro@gmail.com
