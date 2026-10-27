@@ -4,12 +4,16 @@ Hi there, I'm Torobong Nyong 👋
 
 🛠️ Tech Stack & Skills Languages & Web: HTML5, CSS3, JavaScript, Python, SQL Tools & Platforms:Git/GitHub, MySQL, Google Sheets/Apps Script, Linux/Windows Admin Core Competencies: Full-Stack Web Development, Data Analysis & Automation, Systems Administration, IT Support
 
-🚀 Featured Highlights
+ 🚀 Featured BuiltByToba Projects
 
-🌐 Building scalable web applications and clean user interfaces.
-📊 Automating data processing, record digitization, and system workflows.
-🛠️ Configuring networks, system infrastructure, and database management.
-📫 Connect With Me
+- 📊 [Analytics & Operations Dashboard](https://github.com/nyongtoro/analytics-admin-dashboard)
+  *Real-time web dashboard with interactive metric charting via Chart.js.*
+- 🌐 [Corporate Tech Landing Page](https://github.com/nyongtoro/corporate-tech-landingpage)
+  *High-converting, mobile-first responsive SaaS landing page.*
+- ⚡ [Automated ETL & Data Pipeline](https://github.com/nyongtoro/automated-data-pipeline)
+  *Python pipeline script for ingesting, cleaning, and structuring enterprise datasets.*
+- 🔐 [Digital QR Verification System](https://github.com/nyongtoro/qr-digital-verification-system)
+  *Mobile scanner web tool for real-time ticket validation and check-in logging.*
 
 LinkedIn: [linkedin.com/in/torobongnyong]
 Email: nyongtoro@gmail.com
