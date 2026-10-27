@@ -1,19 +1,34 @@
-Hi there, I'm Torobong Nyong 👋
+# Hi there, I'm Torobong Nyong 👋 
 
-💻 IT Specialist | Web Developer | Data & Systems Analyst I build responsive web applications, automate data workflows, and manage robust IT systems. Passionate about solving complex technical problems and creating seamless digital experiences.
+### 💻 Frontend Developer & Systems Specialist | Founder of BuiltByToba
+I build high-performance web applications, automate operational workflows, and engineer reliable IT infrastructure. Driven by clean code, intuitive user experiences, and scalable system architecture.
 
-🛠️ Tech Stack & Skills Languages & Web: HTML5, CSS3, JavaScript, Python, SQL Tools & Platforms:Git/GitHub, MySQL, Google Sheets/Apps Script, Linux/Windows Admin Core Competencies: Full-Stack Web Development, Data Analysis & Automation, Systems Administration, IT Support
+---
 
- 🚀 Featured BuiltByToba Projects
+### 🛠️ Tech Stack & Core Competencies
+* **Frontend & Web:** HTML5, CSS3, JavaScript (ES6+), Tailwind/Bootstrap, REST APIs
+* **Automation & Scripting:** Python 3.x, Pandas, Automated Data Processing
+* **Systems & Infrastructure:** Linux/Windows Admin, Network Architecture, Cloud Fundamentals (AWS/Azure)
+* **Databases & Tools:** SQL, MySQL, Git, GitHub, VS Code, Google APIs
 
-- 📊 [Analytics & Operations Dashboard](https://github.com/nyongtoro/analytics-admin-dashboard)
+---
+
+### 🚀 Featured BuiltByToba Projects
+
+- 📊 **[Analytics & Operations Dashboard](https://github.com/nyongtoro/analytics-admin-dashboard)**
   *Real-time web dashboard with interactive metric charting via Chart.js.*
-- 🌐 [Corporate Tech Landing Page](https://github.com/nyongtoro/corporate-tech-landingpage)
+- 🌐 **[Corporate Tech Landing Page](https://github.com/nyongtoro/corporate-tech-landingpage)**
   *High-converting, mobile-first responsive SaaS landing page.*
-- ⚡ [Automated ETL & Data Pipeline](https://github.com/nyongtoro/automated-data-pipeline)
+- ⚡ **[Automated ETL & Data Pipeline](https://github.com/nyongtoro/automated-data-pipeline)**
   *Python pipeline script for ingesting, cleaning, and structuring enterprise datasets.*
-- 🔐 [Digital QR Verification System](https://github.com/nyongtoro/qr-digital-verification-system)
+- 🔐 **[Digital QR Verification System](https://github.com/nyongtoro/qr-digital-verification-system)**
   *Mobile scanner web tool for real-time ticket validation and check-in logging.*
 
-LinkedIn: [linkedin.com/in/torobongnyong]
+---
+
+### 📫 Let's Connect
 Email: nyongtoro@gmail.com
+- **LinkedIn:** [linkedin.com/in/torobongnyong](https://linkedin.com) *(Update with your URL)*
+- **Brand:** **BuiltByToba** — Engineering & Digital Solutions
+
+
